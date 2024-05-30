@@ -1,16 +1,13 @@
-## Hi there 👋
+### Boas vindas ao meu perfil 😄
 
-<!--
-**Guilherme-S-Mesquita/Guilherme-S-Mesquita** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+- Atualmente cursando o Técnico em desenvolvimento de sistemas na Etec de Guaianases
+- Estou desenvolvendo conhecimento nas linguagens back-end, Java, Python, Node Js e php
+- Nas linguagens de Front-end, HTML, CSS e um breve conhecimento com Java Script
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### Entre em contato comigo 📧
+
+guimesquita.1512@gmial.com
+
+@gui.mesquitx
