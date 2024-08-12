@@ -8,6 +8,6 @@
 
 ### Entre em contato comigo 📧
 
-guimesquita.1512@gmial.com
+guimesquita.1512@gmail.com
 
 @gui.mesquitx
